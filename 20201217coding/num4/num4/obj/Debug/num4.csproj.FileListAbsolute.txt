@@ -1,0 +1,7 @@
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\bin\Debug\num4.exe.config
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\bin\Debug\num4.exe
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\bin\Debug\num4.pdb
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\obj\Debug\num4.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\obj\Debug\num4.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\obj\Debug\num4.exe
+C:\Users\KB\Desktop\sohyeunGit\backup\20201217coding\num4\num4\obj\Debug\num4.pdb
